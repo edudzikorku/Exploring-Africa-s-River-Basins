@@ -2,7 +2,7 @@
 Explore the vast network of African rivers and their parent basins with this map. This project aims to visually represent all rivers in Africa, based on their respective parent river basins, to provide a comprehensive understanding of the continent's water systems.
 
 <center>
-	<img src="https://drive.google.com/file/d/1X-wPdhxiHuJcwOH-8AwWE6CZzITAD-gY/view?usp=share_link" alt="african river basins" height = "350" width = "350">
+	<img src="https://drive.google.com/file/d/1X-wPdhxiHuJcwOH-8AwWE6CZzITAD-gY/view?usp=share_link/afr_rivers.png" alt="african_river_basins" height = "350" width = "350">
 </center>
 
 ## Project Description:
